@@ -1,4 +1,4 @@
-package advancedjavaconcepts;
+package com.practisebasics.advancedjavaconcepts;
 import java.util.concurrent.*;
 
 public class Multithreading {
